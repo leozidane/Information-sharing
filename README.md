@@ -11,10 +11,10 @@
 3.使用异步队列设计来完成对站内信、登录异常、关注问题等事件的处理，提升系统的用户交互体验，采用邮件发送技术对用户关心的资讯或问题进行邮件通知。
 
 4.采用七牛云对象存储，通过提供的SDK进行对资讯中的图片、用户分享的文件进行云上传、下载。
-(https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/detial.PNG)
+ ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/detial.PNG)
 
-(https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/home.PNG)
+ ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/home.PNG)
 
-(https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/messagedetail.PNG)
+ ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/messagedetail.PNG)
 
-(https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/messagelist.PNG)
+ ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/messagelist.PNG)
