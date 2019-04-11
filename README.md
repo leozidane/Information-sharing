@@ -8,9 +8,8 @@
 
 2.采用mysql数据库对实体信息进行存储，redis用在缓存、点赞和排名等相关方面。 
 
-3.使用异步队列设计来完成对站内信、登录异常、关注问题等事件的处理，提升系统的用户交互体验，采用邮件发送技术对用户关心的资讯或问题进行邮件通知。
+3.使用异步队列设计来完成对站内信。
 
-4.采用七牛云对象存储，通过提供的SDK进行对资讯中的图片、用户分享的文件进行云上传、下载。
  ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/detial.PNG)
 
  ![image](https://github.com/leozidane/Information-sharing/blob/master/toutiao-master/home.PNG)
